@@ -33,3 +33,4 @@
 * [用语集](yong-yu-ji/README.md)
   * [关键词与能力](yong-yu-ji/guan-jian-ci-yu-neng-li.md)
   * [游戏术语](yong-yu-ji/you-xi-shu-yu.md)
+  * [类型列表](yong-yu-ji/lei-xing-lie-biao.md)
