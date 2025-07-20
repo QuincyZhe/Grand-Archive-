@@ -91,7 +91,7 @@
     * 复制
     * 卡牌与物件的特性
     * 默认情况
-* 用语集
-  * 关键词与能力
-  * 游戏术语
-  * 类型列表
+* [用语集](yong-yu-ji/)
+  * [关键词与能力](yong-yu-ji/guan-jian-ci-yu-neng-li.md)
+  * [游戏术语](yong-yu-ji/you-xi-shu-yu.md)
+  * [类型列表](yong-yu-ji/lei-xing-lie-biao.md)
