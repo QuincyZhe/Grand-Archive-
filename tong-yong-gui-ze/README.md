@@ -1,8 +1,6 @@
----
-description: 此主题将分为以下各节进行讨论
----
-
 # 通用规则
+
+此主题将分为以下各节进行讨论：
 
 * [游戏目标](tong-yong-gui-ze-you-xi-mu-biao.md)
 * [玩家](tong-yong-gui-ze-wan-jia.md)
