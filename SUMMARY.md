@@ -30,6 +30,7 @@
     * [卡牌类型 - 功能性子类型](tong-yong-gui-ze/tong-yong-gui-ze-ka-pai-lei-xing/ka-pai-lei-xing-gong-neng-xing-zi-lei-xing.md)
   * [通用规则 - 卡牌特征](tong-yong-gui-ze/tong-yong-gui-ze-ka-pai-te-zheng/README.md)
     * [双面卡牌](tong-yong-gui-ze/tong-yong-gui-ze-ka-pai-te-zheng/shuang-mian-ka-pai.md)
+* [游戏机制](you-xi-ji-zhi.md)
 * [用语集](yong-yu-ji/README.md)
   * [关键词与能力](yong-yu-ji/guan-jian-ci-yu-neng-li.md)
   * [游戏术语](yong-yu-ji/you-xi-shu-yu.md)
