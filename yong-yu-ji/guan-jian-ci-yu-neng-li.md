@@ -179,7 +179,7 @@
 {% hint style="info" %}
 例如，《洛琳，流浪战士》属于洛琳卡名的英雄，满足升级为《洛琳，剑圣》的条件。
 
-![](<../.gitbook/assets/image (1) (1).png>)![](<../.gitbook/assets/image (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1).png>)![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
 {% endhint %}
 
 [Lineage Release](#user-content-fn-22)[^22]
