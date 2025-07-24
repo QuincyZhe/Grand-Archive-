@@ -54,6 +54,7 @@
       * [攻击宣言](you-xi-ji-zhi/you-xi-ji-zhi-hui-he-shun-xu/hui-he-shun-xu-zhan-dou-jie-duan/zhan-dou-jie-duan-gong-ji-xuan-gao.md)
       * [反击步骤](you-xi-ji-zhi/you-xi-ji-zhi-hui-he-shun-xu/hui-he-shun-xu-zhan-dou-jie-duan/zhan-dou-jie-duan-fan-ji-bu-zhou.md)
       * [伤害步骤](you-xi-ji-zhi/you-xi-ji-zhi-hui-he-shun-xu/hui-he-shun-xu-zhan-dou-jie-duan/zhan-dou-jie-duan-shang-hai-bu-zhou.md)
+      * [战斗结束步骤](you-xi-ji-zhi/you-xi-ji-zhi-hui-he-shun-xu/hui-he-shun-xu-zhan-dou-jie-duan/zhan-dou-jie-duan-zhan-dou-jie-shu-bu-zhou.md)
     * [阶段终止](you-xi-ji-zhi/you-xi-ji-zhi-hui-he-shun-xu/hui-he-shun-xu-jie-duan-zhong-zhi.md)
     * [阶段跳过](you-xi-ji-zhi/you-xi-ji-zhi-hui-he-shun-xu/hui-he-shun-xu-jie-duan-tiao-guo.md)
   * [打出卡牌](you-xi-ji-zhi/you-xi-ji-zhi-da-chu-ka-pai/)
@@ -72,25 +73,29 @@
     * [替代效果](you-xi-ji-zhi/you-xi-ji-zhi-xiao-guo-lei-xing/xiao-guo-lei-xing-ti-dai-xiao-guo.md)
     * [持续效果](you-xi-ji-zhi/you-xi-ji-zhi-xiao-guo-lei-xing/xiao-guo-lei-xing-chi-xu-xiao-guo/)
   * [物件与指定目标](you-xi-ji-zhi/you-xi-ji-zhi-wu-jian-yu-zhi-ding-mu-biao.md)
-  * [时点](you-xi-ji-zhi/you-xi-ji-zhi-shi-dian-yu-xu-ke.md)
+  * [时点与许可](you-xi-ji-zhi/you-xi-ji-zhi-shi-dian-yu-xu-ke.md)
   * [伤害](you-xi-ji-zhi/you-xi-ji-zhi-shang-hai.md)
+  * [伤害防止](you-xi-ji-zhi/you-xi-ji-zhi-shang-hai-fang-zhi.md)
   * [抽取卡牌](you-xi-ji-zhi/you-xi-ji-zhi-chou-qu-ka-pai.md)
   * [指示物](you-xi-ji-zhi/you-xi-ji-zhi-zhi-shi-wu.md)
-  * 其他
-    * 可追踪信息
-    * 许可
-    * 认输
-    * 随机性
-    * 四舍五入
-    * 检索与寻找
-    * 特殊游戏行动与回合基础行动
-    * 基于状态的效果
-    * 玩家行动合规性
-    * 命名
-    * 效果
-    * 复制
-    * 卡牌与物件的特性
-    * 默认情况
+  * [奥义](you-xi-ji-zhi/you-xi-ji-zhi-ao-yi.md)
+  * [其他](you-xi-ji-zhi/you-xi-ji-zhi-qi-ta/)
+    * [可追踪信息](you-xi-ji-zhi/you-xi-ji-zhi-qi-ta/ke-zhui-zong-xin-xi.md)
+    * [许可](you-xi-ji-zhi/you-xi-ji-zhi-qi-ta/xu-ke.md)
+    * [认输](you-xi-ji-zhi/you-xi-ji-zhi-qi-ta/ren-shu.md)
+    * [随机化](you-xi-ji-zhi/you-xi-ji-zhi-qi-ta/sui-ji-hua.md)
+    * [取整](you-xi-ji-zhi/you-xi-ji-zhi-qi-ta/qu-zheng.md)
+    * [检索与寻找](you-xi-ji-zhi/you-xi-ji-zhi-qi-ta/jian-suo-yu-xun-zhao.md)
+    * [特殊游戏行动与基于回合的行动](you-xi-ji-zhi/you-xi-ji-zhi-qi-ta/te-shu-you-xi-xing-dong-yu-ji-yu-hui-he-de-xing-dong.md)
+    * [基于状态的检查与效果](you-xi-ji-zhi/you-xi-ji-zhi-qi-ta/ji-yu-zhuang-tai-de-jian-cha-yu-xiao-guo.md)
+    * [玩家行动合规性](you-xi-ji-zhi/you-xi-ji-zhi-qi-ta/wan-jia-xing-dong-he-gui-xing.md)
+    * [命名](you-xi-ji-zhi/you-xi-ji-zhi-qi-ta/ming-ming.md)
+    * [效果](you-xi-ji-zhi/you-xi-ji-zhi-qi-ta/xiao-guo.md)
+    * [复制](you-xi-ji-zhi/you-xi-ji-zhi-qi-ta/fu-zhi.md)
+    * [卡牌与物件的信息](you-xi-ji-zhi/you-xi-ji-zhi-qi-ta/ka-pai-yu-wu-jian-xin-xi.md)
+    * [衍生物](you-xi-ji-zhi/you-xi-ji-zhi-qi-ta/yan-sheng-wu.md)
+    * [特殊属性](you-xi-ji-zhi/you-xi-ji-zhi-qi-ta/te-shu-shu-xing.md)
+    * [默认情况](you-xi-ji-zhi/you-xi-ji-zhi-qi-ta/mo-ren-qing-kuang.md)
 * [用语集](yong-yu-ji/)
   * [关键词与能力](yong-yu-ji/guan-jian-ci-yu-neng-li.md)
   * [游戏术语](yong-yu-ji/you-xi-shu-yu.md)

@@ -48,8 +48,8 @@
 
 以下页面将讨论这些主题：
 
-* 启动式能力
-* 触发式能力
-* 静止式能力
-* 制限式能力
-* 能力追踪
+* [启动式能力](neng-li-qi-dong-shi-neng-li.md)
+* [触发式能力](neng-li-chu-fa-shi-neng-li.md)
+* [静止式能力](neng-li-jing-zhi-shi-neng-li.md)
+* [制限式能力](neng-li-zhi-xian-shi-neng-li.md)
+* [能力的追溯](neng-li-neng-li-de-zhui-su.md)

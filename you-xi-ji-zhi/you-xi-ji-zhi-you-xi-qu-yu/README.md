@@ -37,14 +37,14 @@
 
 以下页面将讨论这些主题：
 
-* 公开vs非公开信息
-* 主牌库
-* 素材库
-* 战场
-* 回忆区
-* 墓场
-* 放逐区
-* 手牌
-* 效果堆叠
-* 意图
-* 物件特定区域
+* [公开 vs 非公开信息](you-xi-qu-yu-gong-kai-vs-fei-gong-kai-xin-xi.md)
+* [主牌库](you-xi-qu-yu-zhu-pai-ku.md)
+* [素材库](you-xi-qu-yu-su-cai-ku.md)
+* [战场](you-xi-qu-yu-zhan-chang.md)
+* [回忆](you-xi-qu-yu-hui-yi.md)
+* [墓场](you-xi-qu-yu-mu-chang.md)
+* [放逐区](you-xi-qu-yu-fang-zhu-qu.md)
+* [手牌](you-xi-qu-yu-shou-pai.md)
+* [效果堆叠](you-xi-qu-yu-xiao-guo-dui-die.md)
+* [意图](you-xi-qu-yu-yi-tu.md)
+* [物件特定区域](you-xi-qu-yu-wu-jian-te-ding-qu-yu.md)

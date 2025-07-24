@@ -19,12 +19,12 @@
 
 以下页面将讨论这些主题：
 
-* 唤醒阶段
-* 具现阶段
-* 追忆阶段
-* 抽牌阶段
-* 主要阶段
-* 结束阶段
-* 战斗阶段
-* 终止阶段
-* 跳过阶段
+* [唤醒阶段](hui-he-shun-xu-huan-xing-jie-duan.md)
+* [具现阶段](hui-he-shun-xu-ju-xian-jie-duan.md)
+* [追忆阶段](hui-he-shun-xu-zhui-yi-jie-duan.md)
+* [抽牌阶段](hui-he-shun-xu-chou-pai-jie-duan.md)
+* [主要阶段](hui-he-shun-xu-zhu-yao-jie-duan.md)
+* [结束阶段](hui-he-shun-xu-jie-shu-jie-duan.md)
+* [战斗阶段](hui-he-shun-xu-zhan-dou-jie-duan/)
+* [阶段终止](hui-he-shun-xu-jie-duan-zhong-zhi.md)
+* [阶段跳过](hui-he-shun-xu-jie-duan-tiao-guo.md)

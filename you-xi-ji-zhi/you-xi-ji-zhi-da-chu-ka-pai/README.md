@@ -10,7 +10,7 @@
 
 以下页面将讨论这些主题：
 
-* 卡牌启动
-* 卡牌具现
-* 代价与回忆
-* 结算
+* [卡牌的启动](da-chu-ka-pai-ka-pai-de-qi-dong.md)
+* [卡牌的具现](da-chu-ka-pai-ka-pai-de-ju-xian.md)
+* [代价与回忆](da-chu-ka-pai-dai-jia-yu-hui-yi.md)
+* [结算](da-chu-ka-pai-jie-suan.md)
