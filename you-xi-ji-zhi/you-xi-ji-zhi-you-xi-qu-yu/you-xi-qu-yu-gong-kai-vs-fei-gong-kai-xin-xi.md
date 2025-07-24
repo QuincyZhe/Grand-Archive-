@@ -7,7 +7,7 @@
    1. 如果一张带有指定特征的卡牌被加入一个非公开区域，该牌在被加入该区域前必须先被展示 。此规则不适用于将卡牌移至一个公开区域，但该卡牌具有隐藏或非公开信息的情况。
 
 {% hint style="warning" %}
-![](<../../.gitbook/assets/image (1) (1) (1).png>)![](<../../.gitbook/assets/image (1) (1) (1) (1).png>)例如，由 Polaris 生成的 Cosmic Bolts 在被洗入主牌库前，必须先向游戏中所有玩家展示。但对于 Quicksilver Grail 而言则并非如此，因为放逐区是一个公开区域，即使被加入的卡牌是背面朝上且被认为是非公开的。
+![](<../../.gitbook/assets/image (1) (1) (1) (1).png>)![](<../../.gitbook/assets/image (1) (1) (1) (1) (1).png>)例如，由 Polaris 生成的 Cosmic Bolts 在被洗入主牌库前，必须先向游戏中所有玩家展示。但对于 Quicksilver Grail 而言则并非如此，因为放逐区是一个公开区域，即使被加入的卡牌是背面朝上且被认为是非公开的。
 {% endhint %}
 
 正面朝上的卡牌，其特质、特性、数值、规则文本及其他信息都被视为公开的。
@@ -24,7 +24,7 @@
    1. 当一张卡牌在一个公开区域（例如，放逐区）中成为非公开状态时，如果一个玩家因该牌曾是公开信息而能看见它，该玩家将保留关于此牌的非公开信息并可以查看此牌 。如果该牌的一项能力将授予打出许可，该玩家可以行使对该牌的打出许可。
 
 {% hint style="success" %}
-![](<../../.gitbook/assets/image (2) (1) (1).png>)![](<../../.gitbook/assets/image (3) (1) (1).png>)![](<../../.gitbook/assets/image (4) (1).png>)\
+![](<../../.gitbook/assets/image (2) (1) (1) (1).png>)![](<../../.gitbook/assets/image (3) (1) (1) (1).png>)![](<../../.gitbook/assets/image (4) (1) (1).png>)\
 例如，如果一个操控着 Gaia's Blessing 且拥有 Three Visits 的玩家，其 Three Visits 被对手的 Tristan, Shadowreaver 所放逐，则拥有 Three Visits 的玩家仍将保留从放逐区启动它的能力，因为它先前通过 Gaia's Blessing 曾是公开信息 。
 {% endhint %}
 

@@ -15,7 +15,7 @@ description: 以下是Grand Archive让游戏正式开局的步骤，包括第一
 步骤 5：按回合顺序，玩家们执行任何游戏前行动。
 
 {% hint style="success" %}
-![](<../.gitbook/assets/image (5) (1).png>)
+![](<../.gitbook/assets/image (5) (1) (1).png>)
 
 例如，像 The Looking Glass 这样的卡牌具有允许玩家在游戏开始时就将其放置在战场上的能力。在一位玩家将要进行其第一回合之前，他们将被允许确认该能力，作为一个特殊游戏行动将此牌放置在战场上。当游戏开始时，此牌将被视作在第一回合前就已在场。
 {% endhint %}

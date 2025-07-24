@@ -10,7 +10,7 @@
 {% hint style="info" %}
 例如，Lorraine, Wandering Warrior 具有“参战时：从你的素材库具现一张回忆代价为0的武器牌。”此处的“参战时”便是一个条件性触发能力，它会在触发条件被满足时，将“从你的素材库具现一张回忆代价为0的武器牌”这个效果置于效果堆叠上。
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)
 {% endhint %}
 
 3. 对于每种情况，触发或触发条件都必须被满足，该触发才能进入效果堆叠。
@@ -30,6 +30,6 @@
 触发式能力将具有与其来源相同的类型、属性及其他相关特征。
 
 {% hint style="info" %}
-![](<../../.gitbook/assets/image (5).png>)\
+![](<../../.gitbook/assets/image (5) (1).png>)\
 例如，来自 Stratagem of Myriad Ice 的触发，也被视为具有水属性和法师法术类型。这些触发将不能指定任何带有法术帷幕的物件为目标。
 {% endhint %}
