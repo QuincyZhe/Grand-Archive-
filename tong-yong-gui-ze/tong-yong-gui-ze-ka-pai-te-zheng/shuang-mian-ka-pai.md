@@ -12,7 +12,7 @@
 {% hint style="info" %}
 例如，如果 Seiryuu，一个具有封存代价的伙伴，被任何效果消灭，在决定该牌将被置于哪个区域时，会检视该牌的默认面，即 Fabled Azurite Fatestone。在此情况下，"Seiryuu" 将被置入放逐区，并作为命石翻回其默认面。类似地，如果一个效果试图将 Seiryuu 移至手牌、回忆区或主牌库，它将改为作为礼装道具 Fabled Azurite Fatestone 返回素材库。
 
-![](<../../.gitbook/assets/image (3) (1) (1).png>)![](<../../.gitbook/assets/image (5) (1) (1).png>)
+![](<../../.gitbook/assets/image (3) (1) (1) (1).png>)![](<../../.gitbook/assets/image (5) (1) (1).png>)
 {% endhint %}
 
 3. 如果一个玩家具有与一张双面牌相关的知情许可（即，该牌对该玩家是公开或非公开的），他们可以通过翻动来检视该牌的任意一面。

@@ -14,7 +14,7 @@
 {% hint style="info" %}
 Innervate Fury 不能选择 8 个伙伴来分摊伤害，并选择其中一个目标伙伴受到 0 点伤害。这实际上意味着，最多只能有7个目标来分摊伤害。
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (3).png>)
 {% endhint %}
 
 4. 选择模式：一些卡牌在启动并被置于效果堆叠上时，要求从给定的选项中选择一个或多个模式。所有模式都必须在该卡牌被置于效果堆叠上时被选择，且在卡牌启动后，已选择的模式不能被更改。
@@ -33,7 +33,7 @@ Innervate Fury 不能选择 8 个伙伴来分摊伤害，并选择其中一个�
 {% hint style="info" %}
 例如，对于 8.a, Cordelia 给予你的衍生物“可封存”能力。你将能够在为 Overlord 支付额外代价而牺牲 Powercell 衍生物之前，先将四个 Powercell 衍生物置为待命来支付其封存代价。
 
-![](<../../.gitbook/assets/image (2).png>)![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)![](<../../.gitbook/assets/image (1) (1).png>)
 {% endhint %}
 
 9. 完成启动：然后，该卡牌被视为已启动，启动该牌的玩家获得时机。
