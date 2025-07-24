@@ -29,53 +29,53 @@
     * [功能性子类型](tong-yong-gui-ze/tong-yong-gui-ze-ka-pai-lei-xing/ka-pai-lei-xing-gong-neng-xing-zi-lei-xing.md)
   * [卡牌特征](tong-yong-gui-ze/tong-yong-gui-ze-ka-pai-te-zheng/)
     * [双面卡牌](tong-yong-gui-ze/tong-yong-gui-ze-ka-pai-te-zheng/shuang-mian-ka-pai.md)
-* 游戏机制
-  * &#x20;  游戏区域
-    * 公开vs非公开信息
-    * 主牌库
-    * 素材库
-    * 战场
-    * 回忆区
-    * 墓场
-    * 放逐区
-    * 手牌
-    * 效果堆叠区
-    * 意图
-    * 物件特定区 &#x20;
-  * 回合行动顺序
-    * 唤醒阶段
-    * 具现阶段
-    * 追忆阶段
-    * 抽牌阶段
-    * 主要阶段
-    * 结束阶段
-    * 战斗阶段
-      * 攻击与战斗阶段
-      * 攻击宣言
-      * 反击步骤
-      * 伤害步骤
-    * 阶段终止
-    * 阶段跳过
-  * 打出卡牌
-    * 卡牌的启动
-    * 卡牌的具现
-    * 代价与回忆
-    * 结算
-  * 能力
-    * 启动式能力
-    * 触发式能力
-    * 静止式能力
-    * 制限式能力
-    * 能力的追溯
-  * 效果的类型
-    * 游戏效果
-    * 替代效果
-    * 持续效果
-  * 物件与目标
-  * 时点
-  * 伤害
-  * 抽取卡牌
-  * 指示物
+* [游戏机制](you-xi-ji-zhi/)
+  * &#x20;  [游戏区域](you-xi-ji-zhi/you-xi-ji-zhi-you-xi-qu-yu/)
+    * [公开 vs 非公开信息](you-xi-ji-zhi/you-xi-ji-zhi-you-xi-qu-yu/you-xi-qu-yu-gong-kai-vs-fei-gong-kai-xin-xi.md)
+    * [主牌库](you-xi-ji-zhi/you-xi-ji-zhi-you-xi-qu-yu/you-xi-qu-yu-zhu-pai-ku.md)
+    * [素材库](you-xi-ji-zhi/you-xi-ji-zhi-you-xi-qu-yu/you-xi-qu-yu-su-cai-ku.md)
+    * [战场](you-xi-ji-zhi/you-xi-ji-zhi-you-xi-qu-yu/you-xi-qu-yu-zhan-chang.md)
+    * [回忆](you-xi-ji-zhi/you-xi-ji-zhi-you-xi-qu-yu/you-xi-qu-yu-hui-yi.md)
+    * [墓场](you-xi-ji-zhi/you-xi-ji-zhi-you-xi-qu-yu/you-xi-qu-yu-mu-chang.md)
+    * [放逐区](you-xi-ji-zhi/you-xi-ji-zhi-you-xi-qu-yu/you-xi-qu-yu-fang-zhu-qu.md)
+    * [手牌](you-xi-ji-zhi/you-xi-ji-zhi-you-xi-qu-yu/you-xi-qu-yu-shou-pai.md)
+    * [效果堆叠](you-xi-ji-zhi/you-xi-ji-zhi-you-xi-qu-yu/you-xi-qu-yu-xiao-guo-dui-die.md)
+    * [意图](you-xi-ji-zhi/you-xi-ji-zhi-you-xi-qu-yu/you-xi-qu-yu-yi-tu.md)
+    * [物件特定区域](you-xi-ji-zhi/you-xi-ji-zhi-you-xi-qu-yu/you-xi-qu-yu-wu-jian-te-ding-qu-yu.md) &#x20;
+  * [回合顺序](you-xi-ji-zhi/you-xi-ji-zhi-hui-he-shun-xu/)
+    * [唤醒阶段](you-xi-ji-zhi/you-xi-ji-zhi-hui-he-shun-xu/hui-he-shun-xu-huan-xing-jie-duan.md)
+    * [具现阶段](you-xi-ji-zhi/you-xi-ji-zhi-hui-he-shun-xu/hui-he-shun-xu-ju-xian-jie-duan.md)
+    * [追忆阶段](you-xi-ji-zhi/you-xi-ji-zhi-hui-he-shun-xu/hui-he-shun-xu-zhui-yi-jie-duan.md)
+    * [抽牌阶段](you-xi-ji-zhi/you-xi-ji-zhi-hui-he-shun-xu/hui-he-shun-xu-chou-pai-jie-duan.md)
+    * [主要阶段](you-xi-ji-zhi/you-xi-ji-zhi-hui-he-shun-xu/hui-he-shun-xu-zhu-yao-jie-duan.md)
+    * [结束阶段](you-xi-ji-zhi/you-xi-ji-zhi-hui-he-shun-xu/hui-he-shun-xu-jie-shu-jie-duan.md)
+    * [战斗阶段](you-xi-ji-zhi/you-xi-ji-zhi-hui-he-shun-xu/hui-he-shun-xu-zhan-dou-jie-duan/)
+      * [攻击与战斗阶段](you-xi-ji-zhi/you-xi-ji-zhi-hui-he-shun-xu/hui-he-shun-xu-zhan-dou-jie-duan/zhan-dou-jie-duan-gong-ji-yu-zhan-dou-jie-duan.md)
+      * [攻击宣言](you-xi-ji-zhi/you-xi-ji-zhi-hui-he-shun-xu/hui-he-shun-xu-zhan-dou-jie-duan/zhan-dou-jie-duan-gong-ji-xuan-gao.md)
+      * [反击步骤](you-xi-ji-zhi/you-xi-ji-zhi-hui-he-shun-xu/hui-he-shun-xu-zhan-dou-jie-duan/zhan-dou-jie-duan-fan-ji-bu-zhou.md)
+      * [伤害步骤](you-xi-ji-zhi/you-xi-ji-zhi-hui-he-shun-xu/hui-he-shun-xu-zhan-dou-jie-duan/zhan-dou-jie-duan-shang-hai-bu-zhou.md)
+    * [阶段终止](you-xi-ji-zhi/you-xi-ji-zhi-hui-he-shun-xu/hui-he-shun-xu-jie-duan-zhong-zhi.md)
+    * [阶段跳过](you-xi-ji-zhi/you-xi-ji-zhi-hui-he-shun-xu/hui-he-shun-xu-jie-duan-tiao-guo.md)
+  * [打出卡牌](you-xi-ji-zhi/you-xi-ji-zhi-da-chu-ka-pai/)
+    * [卡牌的启动](you-xi-ji-zhi/you-xi-ji-zhi-da-chu-ka-pai/da-chu-ka-pai-ka-pai-de-qi-dong.md)
+    * [卡牌的具现](you-xi-ji-zhi/you-xi-ji-zhi-da-chu-ka-pai/da-chu-ka-pai-ka-pai-de-ju-xian.md)
+    * [代价与回忆](you-xi-ji-zhi/you-xi-ji-zhi-da-chu-ka-pai/da-chu-ka-pai-dai-jia-yu-hui-yi.md)
+    * [结算](you-xi-ji-zhi/you-xi-ji-zhi-da-chu-ka-pai/da-chu-ka-pai-jie-suan.md)
+  * [能力](you-xi-ji-zhi/you-xi-ji-zhi-neng-li/)
+    * [启动式能力](you-xi-ji-zhi/you-xi-ji-zhi-neng-li/neng-li-qi-dong-shi-neng-li.md)
+    * [触发式能力](you-xi-ji-zhi/you-xi-ji-zhi-neng-li/neng-li-chu-fa-shi-neng-li.md)
+    * [静止式能力](you-xi-ji-zhi/you-xi-ji-zhi-neng-li/neng-li-jing-zhi-shi-neng-li.md)
+    * [制限式能力](you-xi-ji-zhi/you-xi-ji-zhi-neng-li/neng-li-zhi-xian-shi-neng-li.md)
+    * [能力的追溯](you-xi-ji-zhi/you-xi-ji-zhi-neng-li/neng-li-neng-li-de-zhui-su.md)
+  * [效果类型](you-xi-ji-zhi/you-xi-ji-zhi-xiao-guo-lei-xing/)
+    * [游戏效果](you-xi-ji-zhi/you-xi-ji-zhi-xiao-guo-lei-xing/xiao-guo-lei-xing-you-xi-xiao-guo.md)
+    * [替代效果](you-xi-ji-zhi/you-xi-ji-zhi-xiao-guo-lei-xing/xiao-guo-lei-xing-ti-dai-xiao-guo.md)
+    * [持续效果](you-xi-ji-zhi/you-xi-ji-zhi-xiao-guo-lei-xing/xiao-guo-lei-xing-chi-xu-xiao-guo/)
+  * [物件与指定目标](you-xi-ji-zhi/you-xi-ji-zhi-wu-jian-yu-zhi-ding-mu-biao.md)
+  * [时点](you-xi-ji-zhi/you-xi-ji-zhi-shi-dian-yu-xu-ke.md)
+  * [伤害](you-xi-ji-zhi/you-xi-ji-zhi-shang-hai.md)
+  * [抽取卡牌](you-xi-ji-zhi/you-xi-ji-zhi-chou-qu-ka-pai.md)
+  * [指示物](you-xi-ji-zhi/you-xi-ji-zhi-zhi-shi-wu.md)
   * 其他
     * 可追踪信息
     * 许可
