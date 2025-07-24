@@ -81,6 +81,7 @@
   * [游戏机制 - 抽取卡牌](you-xi-ji-zhi/you-xi-ji-zhi-chou-qu-ka-pai.md)
   * [游戏机制 - 指示物](you-xi-ji-zhi/you-xi-ji-zhi-zhi-shi-wu.md)
   * [游戏机制 - 奥义](you-xi-ji-zhi/you-xi-ji-zhi-ao-yi.md)
+  * [游戏机制 - 其他](you-xi-ji-zhi/you-xi-ji-zhi-qi-ta.md)
 * [用语集](yong-yu-ji/README.md)
   * [关键词与能力](yong-yu-ji/guan-jian-ci-yu-neng-li.md)
   * [游戏术语](yong-yu-ji/you-xi-shu-yu.md)
