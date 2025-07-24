@@ -2,7 +2,7 @@
 
 卡牌在其中部栏的左侧，即类型栏中，会列出其卡牌类型。
 
-这些类型包括英雄、伙伴、行动、攻击、武器、领地、道具和幻象。
+这些类型包括[英雄](../tong-yong-gui-ze-ka-pai-lei-xing/ka-pai-lei-xing-ying-xiong.md)、[伙伴](../tong-yong-gui-ze-ka-pai-lei-xing/ka-pai-lei-xing-huo-ban.md)、[行动](../tong-yong-gui-ze-ka-pai-lei-xing/ka-pai-lei-xing-xing-dong.md)、[攻击](../tong-yong-gui-ze-ka-pai-lei-xing/ka-pai-lei-xing-gong-ji.md)、[武器](../tong-yong-gui-ze-ka-pai-lei-xing/ka-pai-lei-xing-wu-qi.md)、[领地](../tong-yong-gui-ze-ka-pai-lei-xing/ka-pai-lei-xing-ling-di.md)、[道具](../tong-yong-gui-ze-ka-pai-lei-xing/ka-pai-lei-xing-dao-ju.md)和[幻象](../tong-yong-gui-ze-ka-pai-lei-xing/ka-pai-lei-xing-huan-xiang.md)。
 
 * 英雄卡牌具有生命数值。
 * 伙伴卡牌同时具有力量和生命数值。

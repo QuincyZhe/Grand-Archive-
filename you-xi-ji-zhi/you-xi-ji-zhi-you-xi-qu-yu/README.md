@@ -1,6 +1,6 @@
 # 游戏机制 - 游戏区域
 
-游戏区域是游戏区域中放置卡牌的一个物理区域。 Grand Archive中总共有9个区域：主牌库、素材库、手牌、回忆区、战场、墓场、放逐区、意图以及效果堆叠。
+游戏区域是游戏区域中放置卡牌的一个物理区域。 Grand Archive中总共有9个区域：[主牌库](you-xi-qu-yu-zhu-pai-ku.md)、[素材库](you-xi-qu-yu-su-cai-ku.md)、[手牌](you-xi-qu-yu-shou-pai.md)、[回忆](you-xi-qu-yu-hui-yi.md)、[战场](you-xi-qu-yu-zhan-chang.md)、[墓场](you-xi-qu-yu-mu-chang.md)、[放逐区](you-xi-qu-yu-fang-zhu-qu.md)、[意图](you-xi-qu-yu-yi-tu.md)以及[效果堆叠](you-xi-qu-yu-xiao-guo-dui-die.md)。
 
 战场和效果堆叠是唯二由所有玩家共享的区域，在这些区域中特定卡牌和物件的操控权会在它们位于其中时被指定。
 

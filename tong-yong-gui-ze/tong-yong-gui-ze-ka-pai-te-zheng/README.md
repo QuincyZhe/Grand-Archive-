@@ -10,7 +10,7 @@
 * 速度（快速、慢速）
 * 名称
 
-特征不包括特性或状态。
+特征不包括[特性或状态](../../you-xi-ji-zhi/you-xi-ji-zhi-qi-ta/te-xing-yu-zhuang-tai.md)。
 
 ### 类型覆盖与类型设置
 

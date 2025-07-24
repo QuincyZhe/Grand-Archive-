@@ -11,7 +11,7 @@
    2. 不能用这些类型的武器与攻击卡牌一同宣告攻击。
 
 {% hint style="info" %}
-参见已装填卡牌；一个已被装填的物件，在攻击宣告期间被使用时，会将其所有已装填的卡牌置入意图。
+参见[已装填卡牌](../../you-xi-ji-zhi/you-xi-ji-zhi-you-xi-qu-yu/you-xi-qu-yu-wu-jian-te-ding-qu-yu.md#yi-zhuang-tian-ka-pai)；一个已被装填的物件，在攻击宣告期间被使用时，会将其所有已装填的卡牌置入意图。
 {% endhint %}
 
 ### 功能性道具

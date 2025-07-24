@@ -10,4 +10,4 @@
 
 墓场中的卡牌必须维持为统一的一叠。
 
-任何被无效、消灭、弃置或牺牲的卡牌，都会被置入其拥有者的墓场。行动卡牌在结算后会被置入其拥有者的墓场。攻击卡牌会在战斗结束步骤期间从意图被置入墓场。
+任何被[无效](../../yong-yu-ji/you-xi-shu-yu.md#negate)、[消灭](../../yong-yu-ji/you-xi-shu-yu.md#destruction)、[弃置](../../yong-yu-ji/you-xi-shu-yu.md#discard)或[牺牲](../../yong-yu-ji/you-xi-shu-yu.md#sacrifice)的卡牌，都会被置入其拥有者的墓场。行动卡牌在结算后会被置入其拥有者的墓场。攻击卡牌会在战斗结束步骤期间从意图被置入墓场。
