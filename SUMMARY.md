@@ -1,6 +1,7 @@
 # Table of contents
 
-* [规则目录](README.md)
+* [更新日志](README.md)
+* [规则目录](<README (1).md>)
 * [通用规则](tong-yong-gui-ze/README.md)
   * [通用规则 - 游戏目标](tong-yong-gui-ze/tong-yong-gui-ze-you-xi-mu-biao.md)
   * [通用规则 - 玩家](tong-yong-gui-ze/tong-yong-gui-ze-wan-jia.md)
