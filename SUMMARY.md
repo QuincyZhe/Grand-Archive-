@@ -7,7 +7,7 @@
   * [通用规则 - 玩家](tong-yong-gui-ze/tong-yong-gui-ze-wan-jia.md)
   * [通用规则 - 游戏开始](tong-yong-gui-ze/tong-yong-gui-ze-you-xi-kai-shi.md)
   * [通用规则 - 游戏结束](tong-yong-gui-ze/tong-yong-gui-ze-you-xi-jie-shu.md)
-  * [通用规则 - 游戏准备](tong-yong-gui-ze/tong-yong-gui-ze-you-xi-zhun-bei.md)
+  * [通用规则 - 赛制惯例](tong-yong-gui-ze/tong-yong-gui-ze-you-xi-zhun-bei.md)
   * [通用规则 - 卡牌信息](tong-yong-gui-ze/tong-yong-gui-ze-ka-pai-xin-xi/README.md)
     * [卡牌信息 - 名称](tong-yong-gui-ze/tong-yong-gui-ze-ka-pai-xin-xi/ka-pai-xin-xi-ming-cheng.md)
     * [卡牌信息 - 代价](tong-yong-gui-ze/tong-yong-gui-ze-ka-pai-xin-xi/ka-pai-xin-xi-dai-jia.md)
