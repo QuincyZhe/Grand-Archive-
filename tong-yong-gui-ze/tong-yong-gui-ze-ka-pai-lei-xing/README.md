@@ -1,8 +1,6 @@
----
-description: 以下几页将涵盖这些主题
----
+# 通用规则 - 卡牌类别
 
-# 通用规则 - 卡牌类型
+以下几页将涵盖这些主题<br>
 
 * [英雄](ka-pai-lei-xing-ying-xiong.md)
 * [伙伴](ka-pai-lei-xing-huo-ban.md)

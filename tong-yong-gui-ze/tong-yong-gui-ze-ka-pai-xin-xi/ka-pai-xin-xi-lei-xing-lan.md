@@ -1,23 +1,17 @@
-# 卡牌信息 - 类型栏
+# 卡牌信息 - 类别栏
 
-卡牌在其中部栏的左侧，即类型栏中，会列出其卡牌类型。
+通用规则：
 
-这些类型包括[英雄](../tong-yong-gui-ze-ka-pai-lei-xing/ka-pai-lei-xing-ying-xiong.md)、[伙伴](../tong-yong-gui-ze-ka-pai-lei-xing/ka-pai-lei-xing-huo-ban.md)、[行动](../tong-yong-gui-ze-ka-pai-lei-xing/ka-pai-lei-xing-xing-dong.md)、[攻击](../tong-yong-gui-ze-ka-pai-lei-xing/ka-pai-lei-xing-gong-ji.md)、[武器](../tong-yong-gui-ze-ka-pai-lei-xing/ka-pai-lei-xing-wu-qi.md)、[领地](../tong-yong-gui-ze-ka-pai-lei-xing/ka-pai-lei-xing-ling-di.md)、[道具](../tong-yong-gui-ze-ka-pai-lei-xing/ka-pai-lei-xing-dao-ju.md)和[幻象](../tong-yong-gui-ze-ka-pai-lei-xing/ka-pai-lei-xing-huan-xiang.md)。
-
-* 英雄卡牌具有生命数值。
-* 伙伴卡牌同时具有力量和生命数值。
-* 行动卡牌具有速度数值。
-* 武器卡牌具有力量和耐久数值。
-* 攻击卡牌具有力量数值。
-
-伙伴、行动、武器和攻击卡牌通常具有职业子类型。
-
-1. 职业子类型会是类型栏中列出的第一个子类型。
-2. 卡牌可以具有多个子类型，其中多个职业子类型会用“/”符号隔开。
-3. 无论职业类型如何，卡牌都可以被启动。
+1. 卡牌在类别栏中卡牌中间分段的左侧列出了一个卡牌类别。这些类别是[英雄](../tong-yong-gui-ze-ka-pai-lei-xing/ka-pai-lei-xing-ying-xiong.md)、[伙伴](../tong-yong-gui-ze-ka-pai-lei-xing/ka-pai-lei-xing-huo-ban.md)、[行动](../tong-yong-gui-ze-ka-pai-lei-xing/ka-pai-lei-xing-xing-dong.md)、[攻击](../tong-yong-gui-ze-ka-pai-lei-xing/ka-pai-lei-xing-gong-ji.md)、[武器](../tong-yong-gui-ze-ka-pai-lei-xing/ka-pai-lei-xing-wu-qi.md)、[领地](../tong-yong-gui-ze-ka-pai-lei-xing/ka-pai-lei-xing-ling-di.md)、[道具](../tong-yong-gui-ze-ka-pai-lei-xing/ka-pai-lei-xing-dao-ju.md)和[幻象](../tong-yong-gui-ze-ka-pai-lei-xing/ka-pai-lei-xing-huan-xiang.md)。
+   1. 默认，英雄卡牌具有生命数值；伙伴卡牌同时具有力量和生命数值；行动卡牌具有速度数值；武器卡牌同时具有力量和耐久数值；攻击卡牌具有力量数值。
+   2. [功能性子类别](../tong-yong-gui-ze-ka-pai-lei-xing/ka-pai-lei-xing-gong-neng-xing-zi-lei-xing.md)可能会赋予通常未在这些卡牌类别上具有的额外数值。
+2. 伙伴、行动、武器和攻击卡牌一般具有职业子类别定类。
+   1. 一个职业子类别将是类别栏上列出的第一个子类别。
+   2. 卡牌可以拥有多个子类别，其中多个职业子类别在卡牌上由“/”分隔。
+   3. 无论职业定类如何，卡牌均可被启动。
 
 {% hint style="info" %}
-例如，一个玩家可以启动刺客卡牌，即使他们的英雄是战士。
+例如，即使玩家的英雄是战士。他们仍可以启动刺客卡牌。
 {% endhint %}
 
-卡牌有时会具有特征子类型，例如“回应”、“技能”、“和声”或“旋律”。这些特征可能会被能力作为某些效果的条件来引用。
+3. 卡牌有时具有特征子类别定类，例如“回应”、“技能”、“和谐”或“旋律”。这些特征可能会被能力作为特定效果的条件所引用。
