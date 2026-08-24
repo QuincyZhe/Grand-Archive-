@@ -13,7 +13,7 @@
     * [牌的组成部分 - 代价](tong-yong-gui-ze/tong-yong-gui-ze-ka-pai-xin-xi/ka-pai-xin-xi-dai-jia.md)
     * [牌的组成部分 - 类别栏](tong-yong-gui-ze/tong-yong-gui-ze-ka-pai-xin-xi/ka-pai-xin-xi-lei-xing-lan.md)
     * [牌的组成部分 - 属性](tong-yong-gui-ze/tong-yong-gui-ze-ka-pai-xin-xi/ka-pai-xin-xi-shu-xing.md)
-    * [卡牌信息—数值](tong-yong-gui-ze/tong-yong-gui-ze-ka-pai-xin-xi/ka-pai-xin-xi-shu-zhi.md)
+    * [牌的组成部分—数值](tong-yong-gui-ze/tong-yong-gui-ze-ka-pai-xin-xi/pai-de-zu-cheng-bu-fen-shu-zhi.md)
     * [牌的组成部分 - 文本框](tong-yong-gui-ze/tong-yong-gui-ze-ka-pai-xin-xi/ka-pai-xin-xi-wen-ben-kuang.md)
     * [牌的组成部分 - 边框信息](tong-yong-gui-ze/tong-yong-gui-ze-ka-pai-xin-xi/ka-pai-xin-xi-bian-kuang-xin-xi.md)
   * [通用规则 - 卡牌类别](tong-yong-gui-ze/tong-yong-gui-ze-ka-pai-lei-xing/README.md)

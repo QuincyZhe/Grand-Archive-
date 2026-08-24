@@ -13,6 +13,6 @@
 * [代价](ka-pai-xin-xi-dai-jia.md)
 * [类型栏](ka-pai-xin-xi-lei-xing-lan.md)
 * [属性](ka-pai-xin-xi-shu-xing.md)
-* [数值](ka-pai-xin-xi-shu-zhi.md)
+* [数值](pai-de-zu-cheng-bu-fen-shu-zhi.md)
 * [文本框](ka-pai-xin-xi-wen-ben-kuang.md)
 * [边框信息](ka-pai-xin-xi-bian-kuang-xin-xi.md)

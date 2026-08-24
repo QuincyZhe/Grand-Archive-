@@ -11,7 +11,7 @@
     * [代价](tong-yong-gui-ze/tong-yong-gui-ze-ka-pai-xin-xi/ka-pai-xin-xi-dai-jia.md)
     * [类型栏](tong-yong-gui-ze/tong-yong-gui-ze-ka-pai-xin-xi/ka-pai-xin-xi-lei-xing-lan.md)
     * [属性](tong-yong-gui-ze/tong-yong-gui-ze-ka-pai-xin-xi/ka-pai-xin-xi-shu-xing.md)
-    * [数值](tong-yong-gui-ze/tong-yong-gui-ze-ka-pai-xin-xi/ka-pai-xin-xi-shu-zhi.md)
+    * [数值](tong-yong-gui-ze/tong-yong-gui-ze-ka-pai-xin-xi/pai-de-zu-cheng-bu-fen-shu-zhi.md)
     * [文本框](tong-yong-gui-ze/tong-yong-gui-ze-ka-pai-xin-xi/ka-pai-xin-xi-wen-ben-kuang.md)
     * [边框信息](tong-yong-gui-ze/tong-yong-gui-ze-ka-pai-xin-xi/ka-pai-xin-xi-bian-kuang-xin-xi.md)
   * [卡牌类型](tong-yong-gui-ze/tong-yong-gui-ze-ka-pai-lei-xing/)
